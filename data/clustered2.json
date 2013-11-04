@@ -1,0 +1,47 @@
+[
+  {
+    "hashtag": "Don't",
+    "coord": [57.9, -2.9],
+    "count": 140
+  },
+  {
+    "hashtag": "look",
+    "coord":[52.22, 4.53],
+    "count": 140
+  },
+  {
+    "hashtag": "back",
+    "coord":[30.2, 31.21],
+    "count": 140
+  },
+  {
+    "hashtag": "in",
+    "coord": [22.34, 88.24],
+    "count": 140
+  },
+  {
+    "hashtag": "anger",
+    "coord": [-33.55, 18.22],
+    "count": 140
+  },
+  {
+    "hashtag": "I",
+    "coord": [52.30, 104.20],
+    "count": 140
+  },
+  {
+    "hashtag": "heard",
+    "coord": [-34.53, -56.10],
+    "count": 140
+  },
+  {
+    "hashtag": "you",
+    "coord": [40.47, -74.10],
+    "count": 140
+  },
+  {
+    "hashtag": "say",
+    "coord": [49.13, -123.21],
+    "count": 140
+  }
+]

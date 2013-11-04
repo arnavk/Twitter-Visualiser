@@ -1,0 +1,52 @@
+[
+  {
+    "hashtag" : "love",
+    "centroid" : [24.0712, 92.5264],
+    "count" : 620
+  },
+  {
+    "hashtag" : "pll",
+    "centroid" : [53.7634, 42.4692],
+    "count" : 231
+  },
+  {
+    "hashtag" : "jobs",
+    "centroid" : [28.5643, -96.2809],
+    "count" : 3890
+  },
+  {
+    "hashtag" : "lrt",
+    "centroid" : [48.3574, 2.6405],
+    "count" : 4430
+  },
+  {
+    "hashtag" : "halamadrid",
+    "centroid" : [-2.9579, 106.2156],
+    "count" : 1879
+  },
+  {
+    "hashtag" : "np",
+    "centroid" : [39.9597, 10.5118],
+    "count" : 1711
+  },
+  {
+    "hashtag" : "lfauit",
+    "centroid" : [52.3053, 3.2145],
+    "count" : 1333
+  },
+  {
+    "hashtag" : "tweetmyjobs",
+    "centroid" : [44.1932, -117.5972],
+    "count" : 2143
+  },
+  {
+    "hashtag" : "job",
+    "centroid" : [40.2014, -80.5063],
+    "count" : 6505
+  },
+  {
+    "hashtag" : "trndnl",
+    "centroid" : [-11.4998, -43.7121],
+    "count" : 1317
+  }
+]
