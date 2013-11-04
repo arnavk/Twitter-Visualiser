@@ -25,7 +25,7 @@ Deploying the version submitted by the team as a Zip File.
 =====================================================================================
 Obtaining and deploying from GITHUB.com
 
-1. Obtain a copy of the repository from GitHub here: https://github.com/radzinzki/Visualiser
+1. Obtain a copy of the repository from GitHub here: https://github.com/radzinzki/Twitter-Visualiser
 2. Install Python v2.7.x from http://www.python.org/download/
 3. Install Django v1.5.x from https://www.djangoproject.com/download/
 4. Open Command Prompt or Terminal and navigate to the "Twitter-Visualiser" directory downloaded in step 1.
