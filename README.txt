@@ -3,7 +3,7 @@ Submitted by Group 33
 
 Lee Mei Ying
 Keerthana Kumar
-Jain Manik
+Manik Jain
 Gayathri Gopalakrishnan
 Arnav Kumar
 
